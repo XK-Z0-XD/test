@@ -1,3 +1,4 @@
+![repo](https://github.com/XK-Z0-XD/text/actions/workflows/node.js.yml/badge.svg)
 # test Repo
 this is to test github stuff
 # Heading 1
