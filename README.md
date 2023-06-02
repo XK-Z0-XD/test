@@ -28,3 +28,5 @@ File Types
 | txt  text file | text files |
 
 :book:
+:information_source:
+:exclamation:
